@@ -1,7 +1,5 @@
-<h1 align="center">🌒 BEYOND-NST</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFBB&center=true&vCenter=true&multiline=true&width=435&lines=👨‍💻+Passionate+IT+Dev;🔒+Privacy-first+Coder;🧠+Always+Learning..." alt="Typing SVG" />
-</p>
+<h1 align="center">🐱‍👤 BEYOND-NST</h1>
+
 
 ---
 
@@ -33,9 +31,4 @@ Modifier
 
 💬 nosta-discord-backend — Backend de bot Discord (en cours)
 
-⚙️ Tools 
-
-📈 Stats GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Beyond-Nst&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beyond-Nst&layout=compact&theme=tokyonight&hide_border=true" width="45%"/> </p>
-🧿 Contact
-📍 GitHub: Beyond-Nst
+⚙️ Tools Safety
